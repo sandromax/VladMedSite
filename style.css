@@ -23,32 +23,32 @@
 
 }
 .sup{
-    font-size: 48px;
+    font-size: 300%;
     font-weight: 600;
 }
 .sub{
-    font-size: 30px;
+    font-size: 187.5%;
     font-weight: normal;
 }
 @media (max-width: 800px) {
     .container{height: 600px;}
-    .sup{
-        font-size: 42px;
-        font-weight: 600;
-    }
-    .sub{
-        font-size: 22px;
-        font-weight: normal;
-    }
+    /*.sup{*/
+        /*font-size: 42px;*/
+        /*font-weight: 600;*/
+    /*}*/
+    /*.sub{*/
+        /*font-size: 22px;*/
+        /*font-weight: normal;*/
+    /*}*/
 }
 @media (max-width: 600px) {
     .container{height: 300px;}
-    .sup{
-        font-size: 36px;
-        font-weight: 600;
-    }
-    .sub{
-        font-size: 15px;
-        font-weight: normal;
-    }
+    /*.sup{*/
+        /*font-size: 36px;*/
+        /*font-weight: 600;*/
+    /*}*/
+    /*.sub{*/
+        /*font-size: 15px;*/
+        /*font-weight: normal;*/
+    /*}*/
 }
